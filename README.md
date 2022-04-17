@@ -1,2 +1,2 @@
-# MEET APOLLO V2!
-Using TDA8425 as Audio Processor and Powered with Arduino Pro Mini
+# APOLLO V2: DIGITAL AUDIO PROCESSOR
+Combination of TDA8425 and controlled with Arduino Pro Mini using I2C connection.
