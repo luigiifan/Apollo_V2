@@ -1,2 +1,2 @@
-# apollo_v2
-APOLLO V2: Stereo Audio Processor
+# MEET APOLLO V2!
+Using TDA8425 as Audio Processor and Powered with Arduino Pro Mini
